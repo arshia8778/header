@@ -1,0 +1,125 @@
+body {
+    background-image: linear-gradient(blue ,black);
+}
+.bn{overflow: hidden;
+    margin-top: 0px;
+   display: flex;
+    border: 0px solid white;
+    width: 1000px;
+    border-radius: 50px;
+    font-size: 50px;
+   margin-left: 300px;
+   margin-top: 50px;
+    /* background-color: rgb(0, 140, 255); */
+}
+.bn1 {
+    font-size: 40px;
+    display: flex; 
+    border: 1px solid #fff;
+    background-color: #fff;
+    border-radius: 15px;
+ padding-right: 100px;
+ height: 60px;
+ margin: 20px;
+ width: 100px;
+}
+
+
+
+
+.bn2 {  overflow: hidden;
+     font-size: 40px;
+     display: flex; 
+    border: 1px solid #fff;
+    background-color: #fff;
+    border-radius: 15px;
+    padding-right: 80px;
+    height: 60px;
+    margin: 20px;
+    width: 150px;
+   }
+
+
+
+
+   .bn3 {  overflow: hidden;
+     font-size: 40px;
+     display: flex; 
+     border: 1px solid #fff;
+    background-color: #fff;
+    border-radius: 15px;
+    padding-right: 100px;
+    height: 60px;
+    margin: 20px;
+    width: 150px;
+   }
+
+
+
+
+   .bn4 {  font-size: 40px;
+      display: flex; 
+     border: 1px solid #fff;
+    background-color: #fff;
+    border-radius: 15px;
+    height: 60px;
+    padding-right: 80px;
+    margin: 20px;
+    width: 150px;
+   }
+
+   .mn { font-size: 50px;
+    border: 1px solid #fff;
+    background-color: #fff;
+    border-radius: 15px;
+    width: 200px;
+    height: 80px;
+   }
+
+
+   .bn1:hover {
+   background-image: linear-gradient(purple ,pink);
+   }
+
+
+
+   .bn2:hover {
+    background-image: linear-gradient(red ,yellow);
+   }
+
+
+
+
+   .bn3:hover {
+background-image: linear-gradient(blue ,lightblue);
+   }
+
+
+
+
+   .bn4:hover {
+background-image: linear-gradient(green ,lightgreen );
+   }
+
+
+   .mn:hover {
+    background-image: linear-gradient(orange ,rgb(239, 186, 88));
+   }
+/* 
+   .uu {
+    display: contents;
+   } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
